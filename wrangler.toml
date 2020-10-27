@@ -1,0 +1,6 @@
+name = "jsonapi"
+type = "webpack"
+account_id = "157145823ee573b44a271fabf4778c32"
+workers_dev = true
+route = ""
+zone_id = ""
