@@ -1,15 +1,11 @@
-# 👷 `worker-template` Hello World
+# 👷 Simple Profile with Cloudflare Worker
 
-A template for kick starting a Cloudflare worker project.
+This is a simple profile developed with Cloudflare worker.
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
+[`index.js`](https://github.com/x13-caesar/cloudflare-jsonapi/blob/main/index.js) is the content of the Workers script.
 
 #### Wrangler
 
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
+It's a project for [Cloudflare General Engineer Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment).
 
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+Click [here](https://jsonapi.qxu.workers.dev/) to visit the completed profile.
