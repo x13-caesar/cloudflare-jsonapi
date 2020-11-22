@@ -1,6 +1,6 @@
 # 👷 Simple Profile with Cloudflare Worker
 
-This is a simple profile developed with Cloudflare worker.
+This is a simple linktree style profile developed with Cloudflare worker.
 
 [`index.js`](https://github.com/x13-caesar/cloudflare-jsonapi/blob/main/index.js) is the content of the Workers script.
 
